@@ -72,7 +72,7 @@
 24. **Google forms** - create simple and user friendly forms for submission of entries.
 25. **Feedly** - RSS feed aggregator
 26. **Ssyoutube** - download youtube videos.
-27. **Pininterest**
+27. **Pinterest**-Social media build around photos.
 28. **Tripoto** - Trip experience sharing site **(TripLived android app)**
 29. **Music.cliggo.com** - Provides music from youtube (app also)
 30. **Requestmaker.com** - like postman but online.
@@ -143,6 +143,7 @@
 39. Screen - used on a remote server to create multiple terminals
 40. **Easy Stroke Gesture recorder** -  control your desktop using mouse gestures
 41. [__fzf__](https://github.com/junegunn/fzf) - a genral purpose command line fuzzy finder, install it nd press `Ctrl + R` or `Ctrl + T` or `ALT + C` in terminal to see the magic.
+42.**Night Shift** - Night Light for Linux.
 
 ## Windows softwares and Utilities
 1. **Putty** - ssh tunnelling in windows.
@@ -197,7 +198,7 @@
 20. **ShareIt, Xander** - File sharing service.
 21. **Shazam, Sound Cloud** - detects music
 22. **MusicX** - The best music player. Album arts, synced lyrics
-23. **Psiphon** - Painless VPN client
+23. **Psiphon, Drony** - Painless VPN client, Proxy can be operated with proxy authentications
 24. **Forkhub** - Your git repos on your phone
 25. **Cleartune** - Painlessly tune your guitar
 26. **Termux** - Terminal emulator and Linux environment for Android
